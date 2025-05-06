@@ -1,0 +1,6 @@
+@ProvaA2_Bruno_Do_Nascimento_Guilherme_Romero_HostAddress = http://localhost:5169
+
+GET {{ProvaA2_Bruno_Do_Nascimento_Guilherme_Romero_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

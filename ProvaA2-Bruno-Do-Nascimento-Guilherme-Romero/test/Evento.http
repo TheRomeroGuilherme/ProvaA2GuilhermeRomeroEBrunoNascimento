@@ -1,0 +1,13 @@
+###
+GET http://localhost:5169/eventos/listar
+
+###
+POST http://localhost:5169/eventos/cadastrar
+Content-Type: application/json
+
+{
+    "nome": "Evento 1",
+    "local": "Local 1",
+    "Data": "12-02-2020",
+    "UsuarioId": 1
+}
